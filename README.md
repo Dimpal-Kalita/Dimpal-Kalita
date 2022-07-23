@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimpal-Kalita
 - 👀 I’m interested in coding, designing and solving problems
-- 🌱 I’m currently learning django, flutter and data structure and algorithm
+- 🌱 I’m currently learning web dev, ML and data structure and algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail @ kalitadimpal112@gmail.com
 
