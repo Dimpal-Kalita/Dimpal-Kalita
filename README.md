@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpal-Kalita&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dimpal-Kalita&icon=0&color=6)](https://visitcount.itsvg.in)
++ Visit count (since 14 Feb 2025):
+  ![](https://count.getloli.com/get/@Dimpal-Kalita?theme=moebooru)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
