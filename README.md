@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at fine-tuning and customizing LLMs<br>🧐 Learning about serverless architectures, distributed systems, and a bit of ML.<br>👨‍💻 Most of my projects are available on GitHub.<br>📙 Check out my [resume](https://drive.google.com/file/d/1_5qnKsokCJQsRhN6FiAOM871-DvhDfL4/view)<br>
+📚 Final Year Student at NIT, Silchar<br>🔭 I’m currently working at fine-tuning and customizing LLMs<br>🧐 Learning about serverless architectures, distributed systems, and a bit of ML.<br>👨‍💻 Most of my projects are available on GitHub.<br>📙 Check out my [resume](https://drive.google.com/file/d/1_5qnKsokCJQsRhN6FiAOM871-DvhDfL4/view)<br>
 
 
 ## 🌐 Socials:
